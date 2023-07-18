@@ -1,0 +1,19 @@
+TODO 1. want to install back express after del node_modules, but fail, why? (technical error)
+-> need to add --save ; but why other dont need, automatically add in dependencies?
+
+2. meaning of @types solved
+
+3. modules have different installation methods, but how i can know their methods? (search npm)
+
+4. why have to add the info about installation in file app.ts, or unnecessary? (unnecessary)
+
+5. 什麼是 JavaScript 的 no typing require？ Solved
+JavaScript 的 no typing require 是指在使用 JavaScript 時，不需要明確地聲明變量的類型，而是可以直接給變量賦值。
+
+6. const module = require("some-packages").default; default's meaning? (depend on  where the modules located)
+
+7. dont know when should i input coding in vscode's terminal and pc terminal? (same function but pc terminal is easy to handle)
+
+8. import {lib} from './lib' ; need to declare the data type of module every time? 
+
+9. "export" ; do i need to add export in each single item, even they are within the same file; if no, how can i write
